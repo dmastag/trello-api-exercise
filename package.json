@@ -1,0 +1,25 @@
+{
+  "name": "trello-api-exercise",
+  "version": "1.0.0",
+  "description": "exercise of using trello api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmastag/trello-api-exercise.git"
+  },
+  "keywords": [
+    "trello"
+  ],
+  "author": "Julian Alimin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmastag/trello-api-exercise/issues"
+  },
+  "homepage": "https://github.com/dmastag/trello-api-exercise#readme",
+  "dependencies": {
+    "dotenv": "8.1.0"
+  }
+}
